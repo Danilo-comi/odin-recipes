@@ -1,0 +1,73 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(20, 20, 20);
+}
+
+.titolo{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(30, 218, 30);
+    padding: 100px; 
+}
+
+.immagine img{
+
+    display: inline-block; 
+    border: 2px solid rgb(30, 218, 30);
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.descrizione{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.para{
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+.ingredienti{
+    font-size: 30px;
+    color: white;
+    padding-top: 60px;
+
+}
+
+.lista-ingred{
+    font-size: 20px;
+    color: white;
+}
+
+.preparazione{
+    padding-top: 100px;
+    color: white;
+    font-size: 30px;
+}
+
+.lista-prepara{
+     font-size: 20px;
+    color: white;
+}
+
+.torna a{
+    display: inline-block; /*rende il link un bottone*/
+    text-decoration: none; /*toglie la sottolineatura*/
+    background-color: rgb(233, 49, 49);
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
