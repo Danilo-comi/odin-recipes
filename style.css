@@ -7,14 +7,13 @@
 
 .titolo {
   text-align: center;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 .ricette {
-  display: flex;
-  font-size: 40px;
-  color: white;
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
+    display: contents;
+    text-align: center;
+    font-size: 40px;
+    list-style-position: inside;
+    
 }
