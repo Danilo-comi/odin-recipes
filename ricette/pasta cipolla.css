@@ -1,0 +1,69 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(127, 112, 255);
+}
+
+.titolo {
+    font-size: 45px;
+    text-align: center;
+    color: yellowgreen; 
+}
+
+.immagine img{
+    display: inline-block;
+    border: 2px solid wheat; 
+    border-radius: 20px;
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.descrizione{
+    font-size: 30px;
+    text-align: center;
+    color: yellowgreen;
+
+}
+
+.p{
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.ingredienti{
+    font-size: 30px;
+    padding-top: 100px;  
+
+}
+
+.ingre{
+    font-size: 20px;
+    padding-bottom: 100px;
+}
+
+.preparazione{
+    font-size: 30px;
+
+}
+
+.prepara{
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+
+.torna a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    background-color: rebeccapurple;
+    border: 2px solid rebeccapurple;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+
+
+}
